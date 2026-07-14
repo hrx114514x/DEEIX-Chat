@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   applicationName: brandText.title,
   title: brandText.title,
   description: brandText.description,
-  manifest: `/manifest.webmanifest?brand=${encodeURIComponent(brandText.shortName)}`,
+  manifest: "/branding/stationk9.webmanifest",
   appleWebApp: {
     capable: true,
     statusBarStyle: "default",
