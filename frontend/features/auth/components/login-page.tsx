@@ -107,6 +107,10 @@ export function LoginPage({ nextPath }: LoginPageProps) {
       <div className="w-full max-w-[360px]">
         <LoginBrandMark />
 
+        <div className="mt-4 rounded-lg border border-input/50 bg-muted/50 px-3 py-2 text-center text-sm leading-5 text-muted-foreground">
+          目前仅支持 QQ 邮箱（@qq.com）注册与登录，注册验证码将发送至该邮箱。
+        </div>
+
         <div
           aria-hidden={!configReady}
           className={cn(

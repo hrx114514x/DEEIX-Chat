@@ -8,7 +8,7 @@ export default function manifest(): MetadataRoute.Manifest {
   return {
     name: brandText.title,
     short_name: brandText.shortName,
-    description: "DEEIX Chat is a multi-model AI conversation workspace.",
+    description: brandText.description,
     id: "/",
     start_url: "/chat",
     scope: "/",

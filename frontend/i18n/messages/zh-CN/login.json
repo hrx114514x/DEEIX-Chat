@@ -1,9 +1,9 @@
 {
   "title": "Sign in to DEEIX Chat",
   "account": "账号",
-  "email": "邮箱",
+  "email": "QQ邮箱（仅支持 @qq.com）",
   "username": "用户名",
-  "emailOrUsername": "邮箱 / 用户名",
+  "emailOrUsername": "QQ邮箱",
   "password": "密码",
   "newPassword": "新密码",
   "newPasswordPlaceholder": "至少 8 位，不能为纯数字",
