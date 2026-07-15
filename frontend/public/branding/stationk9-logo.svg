@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 292 64" role="img" aria-labelledby="title">
+  <title id="title">StationK9</title>
+  <style>
+    .ink { fill: #211f1c; }
+    @media (prefers-color-scheme: dark) {
+      .ink { fill: #f1ebdd; }
+    }
+  </style>
+  <path class="ink" d="M50.3 11.7C42.4 5.9 24.5 5.2 15.2 14.3 5 24.3 12 35.4 28.1 37.8c7.7 1.2 10.8 3 8.3 6.7-2.9 4.2-13.2 3.9-20.5-1.8l-5.2 8c11.4 9.3 28.6 8.8 37.6-2.5 8.5-10.7 1.9-21-14.2-23.5-7.8-1.2-11.1-3.2-8-6.3 3.2-3.3 12.4-2.5 18.9 1.6Z"/>
+  <path fill="#cf7658" d="m20.8 24.8 16 9.3-12.1 5.4Z"/>
+  <text class="ink" x="70" y="43" font-family="Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="37" font-weight="700" letter-spacing="-1.4">StationK9</text>
+</svg>
